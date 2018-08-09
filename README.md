@@ -13,7 +13,9 @@ A supermarket sells the following products and their prices:
 1.	As a customer of xyz supermarket I would like to order a selection of food items and pay the bill.
 2.	As a customer I would like to use a discount voucher and then pay the remaining fee.
 3.	The supermarket has special offers. 
+
   a.	Beans are 3 for 2$.  What happens when I buy 4?
+  
   b.	Chickens are 2 for $10.  What happens when I buy 3?
 
 Build an HTML page that implements the scenario above, following these guidelines:
